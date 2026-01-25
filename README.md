@@ -11,7 +11,6 @@ The system will act as a centralized, secure digital health hub that connects mo
 medical information, personalized guidance, and professional consultation services, thereby bridging the 
 gap between general maternal health advice and individualized care.
 Also,it works as a reminder for baby vaccination during the vaccination cycle.
-[اكتبي الفكرة باختصار – 4 أو 5 سطور]
 
 ## 📋 Project Phases
 
