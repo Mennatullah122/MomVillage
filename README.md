@@ -50,11 +50,3 @@ Also,it works as a reminder for baby vaccination during the vaccination cycle.
 - Hany Ziad
 - Mohamed Mosaad
 
-## Repository Structure
-Each folder represents a phase of the software engineering lifecycle:
-- `1-Requirements`: Project requirements and analysis
-- `2-Traceability`: Traceability matrix
-- `3-Design`: Architecture, UML, and DFD diagrams
-- `4-Implementation`: Demo code
-- `5-Testing`: Test cases
-- `6-Documentation`: Final project report
